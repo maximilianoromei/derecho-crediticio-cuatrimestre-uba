@@ -24,12 +24,25 @@ Cesación de Pagos - Sujetos Concursales
 :::
 
 ::: {.clase}
-## Clase 2 · Tema de la clase
+## Clase 2 · Concurso del Exterior - Presentación en concurso, Ratificación
 
-Breve descripción de los temas trabajados en la clase.
+Concurso del Exterior.
 
-[🎓 Ver presentación](clases/clase02.html){.btn .btn-primary target="_blank"}
-[⬇️ Descargar PDF](clases/clase02.pdf){.btn .btn-outline-primary target="_blank"}
+[🎓 Ver presentación](clases/clase02/3_art_4_lcq.pptx){.btn .btn-primary target="_blank"}
+[⬇️ Descargar PDF](clases/clase02/3_art_4_lcq.pdf){.btn .btn-outline-primary target="_blank"}
+
+Presentación en Concurso Alfa Pampa
+
+[🎓 Ver presentación](clases/clase02/presentacion-concurso-alfa-pampa.pdf){.btn .btn-primary target="_blank"}
+
+Apertura de Concurso Preventivo Alfa Pampa
+
+[🎓 Ver presentación](clases/clase02/apertura-concurso-alfa-pampa.pdf){.btn .btn-primary target="_blank"}
+
+Fallo. Presentación en Concurso. Art. 320 CCCN
+
+[🎓 Ver presentación](clases/clase02/excepcion320-fallo.pdf){.btn .btn-primary target="_blank"}
+
 :::
 
 ::: {.clase}
