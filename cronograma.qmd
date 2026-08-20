@@ -5,11 +5,13 @@ title: "Cronograma"
 El cronograma completo de la materia puede consultarse directamente desde esta página.
 
 ::: {.cronograma-frame}
+
 <iframe
-  src=https://docs.google.com/spreadsheets/d/e/2PACX-1vR9xbxGPa4ihjZsthW5H992mhxh26CYYuecQxIkDbuN3HUelMT6zXXJkZewXF4Qdu4_riIO2iwQBUYD/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"
+  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR9xbxGPa4ihjZsthW5H992mhxh26CYYuecQxIkDbuN3HUelMT6zXXJkZewXF4Qdu4_riIO2iwQBUYD/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"
   width="100%"
   height="900"
   style="border: 1px solid #d9dee5; border-radius: 10px;"
   loading="lazy">
 </iframe>
+
 :::
