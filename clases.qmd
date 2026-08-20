@@ -1,0 +1,44 @@
+---
+title: "Clases"
+---
+
+Esta página concentra todo el material de la cursada. Cada clase aparece una debajo de la otra.
+
+::: {.clase}
+## Clase 1 · Introducción
+
+Principios Concursales - Distinción entre procesos individuales y colectivos
+
+[🎓 Ver presentación](clases/clase01/1_Presentacion%20del%20curso.pptx){.btn .btn-primary target="_blank"}
+[⬇️ Descargar PDF](clases/clase01/1_Presentacion%20del%20curso.pdf){.btn .btn-outline-primary target="_blank"}
+
+Línea de Tiempo
+
+[🎓 Ver presentación](clases/clase01/L%C3%8DNEA%20DE%20TIEMPO.pptx){.btn .btn-primary target="_blank"}
+[⬇️ Descargar PDF](clases/clase01/L%C3%8DNEA%20DE%20TIEMPO.pdf){.btn .btn-outline-primary target="_blank"}
+
+Cesación de Pagos - Sujetos Concursales
+
+[🎓 Ver presentación](clases/clase01/2_Cesacion-de-Pagos.pptx){.btn .btn-primary target="_blank"}
+[⬇️ Descargar PDF](clases/clase01/2_Cesacion-de-Pagos.pdf){.btn .btn-outline-primary target="_blank"}
+:::
+
+::: {.clase}
+## Clase 2 · Tema de la clase
+
+Breve descripción de los temas trabajados en la clase.
+
+[🎓 Ver presentación](clases/clase02.html){.btn .btn-primary target="_blank"}
+[⬇️ Descargar PDF](clases/clase02.pdf){.btn .btn-outline-primary target="_blank"}
+:::
+
+::: {.clase}
+## Clase 3 · Tema de la clase
+
+Breve descripción de los temas trabajados en la clase.
+
+[🎓 Ver presentación](clases/clase03.html){.btn .btn-primary target="_blank"}
+[⬇️ Descargar PDF](clases/clase03.pdf){.btn .btn-outline-primary target="_blank"}
+:::
+
+<!-- Duplicar este bloque para agregar nuevas clases -->

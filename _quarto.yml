@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Derecho Comercial"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: clases.qmd
+        text: Clases
+      - href: cronograma.qmd
+        text: Cronograma
+  page-footer:
+    center: "Maximiliano Lucas Romei · 2026"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+
+execute:
+  freeze: auto

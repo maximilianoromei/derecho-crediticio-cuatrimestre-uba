@@ -1,0 +1,25 @@
+---
+title: "Derecho Crediticio, Bursatil e Insolvencia"
+subtitle: "Material de la cursada · 2026"
+---
+
+::: {.hero}
+# Derecho Crediticio, Bursatil e Insolvencia
+
+**Material, presentaciones y cronograma de la cursada**  
+**Prof. Maximiliano Lucas Romei**
+:::
+
+::: {.callout-note title="📢 Avisos generales"}
+Este sitio reúne el material utilizado durante la materia. Los contenidos se irán incorporando a medida que avance la cursada.
+:::
+
+## Bienvenida
+
+En la pestaña **Clases** vas a encontrar, ordenado por encuentro, el material de cada clase: presentación para visualizar online y archivo descargable.
+
+En **Cronograma** se encuentra embebido el cronograma general de la materia.
+
+::: {.callout-warning title="Importante"}
+Los avisos de último momento y modificaciones de fechas se publicarán en esta página.
+:::
