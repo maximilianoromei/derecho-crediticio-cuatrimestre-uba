@@ -35,6 +35,10 @@ Presentación en Concurso Alfa Pampa
 
 [🎓 Ver presentación](clases/clase02/presentacion-concurso-alfa-pampa.pdf){.btn .btn-primary target="_blank"}
 
+Acta de Ratificación
+
+[🎓 Ver presentación](clases/clase02/acta%20de%20ratificacion.pdf){.btn .btn-primary target="_blank"}
+
 Apertura de Concurso Preventivo Alfa Pampa
 
 [🎓 Ver presentación](clases/clase02/apertura-concurso-alfa-pampa.pdf){.btn .btn-primary target="_blank"}
@@ -50,8 +54,18 @@ Fallo. Presentación en Concurso. Art. 320 CCCN
 
 Breve descripción de los temas trabajados en la clase.
 
-[🎓 Ver presentación](clases/clase03.html){.btn .btn-primary target="_blank"}
-[⬇️ Descargar PDF](clases/clase03.pdf){.btn .btn-outline-primary target="_blank"}
+Presentación Powerpoint Pronto Pago
+
+[🎓 Ver presentación](clases/clase03/pronto_pago.pptx){.btn .btn-primary target="_blank"}
+
+Ejercicio Pronto pago
+
+[🎓 Ver presentación](clases/clase03/ejercicio_pronto_pago.pdf){.btn .btn-primary target="_blank"}
+
+Video explicativo del ejercicio de pronto pago
+
+[▶️ Ver video](https://youtu.be/am_G8GSHKpQ){.btn .btn-primary target="_blank"}
+
 :::
 
 <!-- Duplicar este bloque para agregar nuevas clases -->
