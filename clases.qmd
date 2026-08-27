@@ -50,9 +50,7 @@ Fallo. Presentación en Concurso. Art. 320 CCCN
 :::
 
 ::: {.clase}
-## Clase 3 · Tema de la clase
-
-Breve descripción de los temas trabajados en la clase.
+## Clase 3 · Pronto Pago.
 
 Presentación Powerpoint Pronto Pago
 
@@ -67,5 +65,20 @@ Video explicativo del ejercicio de pronto pago
 [▶️ Ver video](https://youtu.be/am_G8GSHKpQ){.btn .btn-primary target="_blank"}
 
 :::
+
+::: {.clase}
+## Clase 4 · Efectos del Concurso - Titulos Valores.
+
+Presentación Powerpoint Efectos del Concurso
+
+[🎓 Ver presentación](clases/clase04/efectos-concurso.pptx){.btn .btn-primary target="_blank"}
+
+Títulos Valores
+
+[🎓 Ver presentación](clases/clase04/titulos-valores.pptx){.btn .btn-primary target="_blank"}
+
+Plenario Difry - Translinea - LEER PARA EL LUNES 01/09
+
+[🎓 Ver presentación](clases/clase04/difry-translinea.pdf){.btn .btn-primary target="_blank"}
 
 <!-- Duplicar este bloque para agregar nuevas clases -->
