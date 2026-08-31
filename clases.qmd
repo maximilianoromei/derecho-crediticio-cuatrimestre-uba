@@ -81,4 +81,23 @@ Plenario Difry - Translinea - LEER PARA EL LUNES 01/09
 
 [🎓 Ver presentación](clases/clase04/difry-translinea.pdf){.btn .btn-primary target="_blank"}
 
+:::
+
+::: {.clase}
+## Clase 5 · Verificación tempestiva y tardía - Informe individual del síndico
+
+Verificación tempestiva y tardía
+
+[🎓 Ver presentación](clases/clase05/Verificacion%20de%20Credito.pptx){.btn .btn-primary target="_blank"}
+[⬇️ Descargar PDF](clases/clase05/Verificacion%20de%20Credito.pdf){.btn .btn-outline-primary target="_blank"}
+
+Informes
+
+[🎓 Ver presentación](clases/clase05/Informes%20del%20sindico.pptx){.btn .btn-primary target="_blank"}
+[⬇️ Descargar PDF](clases/clase05/Informes%20del%20sindico.pdf){.btn .btn-outline-primary target="_blank"}
+
+Informe artículo 35
+
+[⬇️ Descargar PDF](clases/clase05/informe%20articulo%2035.pdf){.btn .btn-outline-primary target="_blank"}
+
 <!-- Duplicar este bloque para agregar nuevas clases -->
