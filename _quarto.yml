@@ -12,6 +12,8 @@ website:
         text: Clases
       - href: cronograma.qmd
         text: Cronograma
+      - href: evaluaciones.qmd
+        text: Evaluaciones
   page-footer:
     center: "Maximiliano Lucas Romei · 2026"
 
