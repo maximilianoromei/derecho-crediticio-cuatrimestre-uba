@@ -100,4 +100,36 @@ Informe artículo 35
 
 [⬇️ Descargar PDF](clases/clase05/informe%20articulo%2035.pdf){.btn .btn-outline-primary target="_blank"}
 
+:::
+
+::: {.clase}
+## Clase 6 · Informe General del Síndico - Período de Exclusividad - Mayorías
+
+Período de Exclusividad - Mayorías
+
+[🎓 Ver presentación](clases/clase06/propuesta-periodo-exclusividad.pptx){.btn .btn-primary target="_blank"}
+[⬇️ Descargar PDF](clases/clase06/propuesta-periodo-exclusividad.pdf){.btn .btn-outline-primary target="_blank"}
+
+Informes general del Síndico - artículo 39
+
+[⬇️ Descargar PDF](clases/clase06/informe%2039.pdf){.btn .btn-outline-primary target="_blank"}
+
+Ejercicio Mayorías
+
+[🎓 Ver ejercicio](clases/clase06/Ejercicio%20Mayorias.pdf){.btn .btn-primary target="_blank"}
+
+Video de youtube explicativo del ejercicio de mayorías
+
+## Video explicativo del ejercicio de mayorías
+
+<div class="video-container">
+<iframe 
+  src="https://www.youtube.com/embed/41AxMhhhw9w"
+  title="Video explicativo - Ejercicio de mayorías"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+</div>
+
 <!-- Duplicar este bloque para agregar nuevas clases -->
