@@ -132,4 +132,39 @@ Video de youtube explicativo del ejercicio de mayorías
 </iframe>
 </div>
 
+:::
+
+::: {.clase}
+## Clase 7 · Cramdown - Salvataje - Artículo 48.
+
+Cramdown
+
+[🎓 Ver presentación](clases/clase07/Cramdown.pptx){.btn .btn-primary target="_blank"}
+[⬇️ Descargar PDF](clases/clase07/Cramdown.pdf){.btn .btn-outline-primary target="_blank"}
+
+:::
+
+::: {.clase}
+## Clase 8 · Homologación - Impugnación - Cramdown Power - Nulidad.
+
+Impugnación - Homologación.
+
+[🎓 Ver presentación](clases/clase08/impugnacion.pptx){.btn .btn-primary target="_blank"}
+[⬇️ Descargar PDF](clases/clase08/impugnacion.pdf){.btn .btn-outline-primary target="_blank"}
+
+Ejercicio Cramdown Power
+
+[⬇️ Descargar PDF](clases/clase08/Ejercicio%20Cramdown%20Power.pdf){.btn .btn-outline-primary target="_blank"}
+
+Agrupamiento
+
+[🎓 Ver presentación](clases/clase08/Agrupamiento%20-%20APE.pptx){.btn .btn-primary target="_blank"}
+[⬇️ Descargar PDF](clases/clase08/Agrupamiento%20-%20APE.pdf){.btn .btn-outline-primary target="_blank"}
+
+Fallos Agrupamiento - Leer Hormisu y Jocri
+
+[⬇️ Descargar PDF](clases/clase08/hormisur%20y%20otros%20(2).pdf){.btn .btn-outline-primary target="_blank"}
+
+
+
 <!-- Duplicar este bloque para agregar nuevas clases -->
