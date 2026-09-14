@@ -1,0 +1,428 @@
+---
+title: "Quiebra"
+subtitle: "Derecho Crediticio, Bursátil e Insolvencia"
+author: "Prof. Maximiliano Lucas Romei"
+
+format:
+  revealjs:
+    theme: simple
+    css: ../../styles.css
+    slide-number: true
+    transition: fade
+    background-transition: fade
+    navigation-mode: vertical
+    controls: true
+    progress: true
+    center: false
+    scrollable: true
+    width: 1600
+    height: 900
+    margin: 0.06
+    pdf-separate-fragments: false
+    embed-resources: false
+
+slide-level: 1
+---
+
+# Quiebra
+
+::: {.caja-celeste}
+
+**ARTÍCULO 77 — Casos**
+:::
+
+La quiebra debe ser declarada:
+
+1. En los casos previstos por los artículos 46, 47, 48, incisos 2) y 5), 51, 54, 61 y 63.
+2. A pedido del acreedor.
+3. A pedido del deudor.
+
+---
+
+# LOS DIVERSOS CASOS DE QUIEBRA INDIRECTA Y DIRECTA
+
+## Quiebra indirecta
+
+- Por frustración del concurso preventivo
+  
+  1. **Junyent Bas** resalta que  se acentua la unidad sustancial entre el pedido de concurso preventivo y la quiebra, pues la petición de concurso preventivo significa una solicitud condicional de quiebra. **Por ello es que el fracaso del remedio preventivo implica la quiebra indirecta del deudor**
+  2. La enumeración del inc. 1o es taxativa y no pueden crearse alternativas de quiebra indirecta por analogía
+
+
+---
+
+# Quiebra directa
+
+::: {.caja-celeste}
+
+La quiebra es directa cuando se la declara por pedido del acreedor, o por el deudor mismo que procura su propia quiebra (arts. 80 y 83, LCQ)
+:::
+
+## Facultad del juez de declarar la quiebra directa
+
+::: {.tarjeta .cita}
+Según **Chomer**
+
+"No le esta dado al juez juzgar si la quiebra es una medida conveniente o no para los acreedores o para el propio deudor, pero para ello es ineludible la iniciativa del profesional acreedor de ese emolumento. Reunidos los presupuestas que atañen a la configuración de cada caso en el que la ley reputa fracasado el concurso preventivo, el magistrado esta obligado a declarar la quiebra, a modo de sanción inevitable. Ni siquiera la voluntad contraria expresada por alguno de los acreedores podria ser suficiente para torcer esa decisión, y mucho menos la del propio juez. Es inadmisible incluso indagar si existen bienes a liquidar, pues ese hecho no se ha exigido nunca en la ley; ni en la actual, ni en sus versiones anteriores."
+:::
+
+---
+
+# Competencia
+
+
+Para determinar qué juez es competente para declarar la quiebra rigen las mismas normas que para el concurso preventivo (art. 3 LCQ).
+
+---
+
+# JURISPRUDENCIA
+
+::: {.fallo .cita}
+
+**Pedido de acreedor**
+
+"Toda vez que el peticionario acreditó tener legitimación activa por ser acreedor del demandado y que éste se encuentra en
+mora en el cumplimiento de su obligación, lo que constituye uno de los hechos reveladores del estado de cesaci6n de pagos, además de que el deudor se encuentra comprendido en el art. Z0 de
+la ley 24.522, con lo que se satisface el presupuesto subjetivo de la falencia, corresponde ordenar al a quo el dictado de la sentencia de quiebra, en los términos del art. 88 en concordancia con lo
+previsto en el art. 77 inc. 2 de la ley citada" (CCivCom y Lab Rafaela, 5/8/05, "Giacomelli, Carmen T. s/pedido de quiebra de: Bergese, Víctor H.", LLLitoral, 2006-442, y LLonEine, AR/JiJR/5211/2005)
+
+:::
+
+---
+
+# Prueba de la cesación de pagos
+
+::: {.caja-celeste}
+
+**ARTÍCULO 78** - El estado de cesación de pagos debe ser demostrado por cualquier hecho que exteriorice que el deudor se encuentra imposibilitado de cumplir regularmente sus obligaciones, cualquiera sea el carácter de ellas y las causas que lo generan.
+
+Pluralidad de acreedores. No es necesaria la pluralidad de acreedores.
+:::
+
+- Este articulo se aplica a la quiebra directa, pues en la indirecta no es necesaria prueba alguna de la cesación de pagos, la que aparece acreditada por la frustración del proceso del concurso preventivo
+- En el pedido de quiebra por un acreedor se admiten todos los medios de prueba.
+
+---
+
+# JURISPRUDENCIA
+
+::: {.fallo .cita}
+
+**Pluralidad de acreedores**
+
+"No es necesaria la pluralidad de acreedores, pues basta la mora en el cumplirniento de una obligación para que el estado de cesación de pagos quede suficientemente demostrado" (CCiv Com y Lab Rafaela, 5/8/05, "Giacornelli, Carmen T. s/pedido de quiebra de Bergese, Víctor H.", LLLitoral, 2006-442, y LLonline, AR/JiJR/5211/2005).
+
+:::
+
+:::: {.fallo .cita}
+
+**Mora**
+
+"La mora en el cumplimiento de las obligaciones constituye la exteriorizacidn indirecta más ostensible y corriente de la cesación de pagos, pues la puntualidad en la atención de las prestaciones
+es muy importante en los negocios juridicos" (CCivCom y Lab Rafaela, 5/8/05, "Giacomelli, Carmen T. s/pedido de quiebra de Bergese, Victor H.", LLLitorul, 2006-442, y LLonline, AWJUR/5211/2005).
+
+::::
+
+---
+
+# Hechos Reveladores de la cesación de pagos
+
+::: {.caja-celeste}
+
+**ARTÍCULO 79** - ARTICULO 79.- Hechos reveladores. Pueden ser considerados hechos reveladores del estado de cesación de pagos, entro otros:
+
+1. Reconocimiento judicial o extrajudicial del mismo, efectuado por el deudor.
+2. Mora en el cumplimiento de una obligación.
+3. Ocultación o ausencia del deudor o de los administradores de la sociedad, en su caso, sin dejar representante con facultades y medios suficientes para cumplir sus obligaciones.
+4. Clausura de la sede de la administración o del establecimiento donde el deudor desarrolle su actividad.
+5. Venta a precio vil, ocultación o entrega de bienes en pago.
+6. Revocación judicial de actos realizados en fraude de los acreedores.
+7. Cualquier medio ruinoso o fraudulento empleado para obtener recursos.
+   
+:::
+
+- Es meramente enunciativo, y no taxativo, por lo que pueden considerarse otros hechos reveladores de la cesación de pagos.
+
+---
+
+# JURISPRUDENCIA
+
+::: {.fallo .cita}
+
+**Pagarés**
+
+"Es improcedente rechazar in limine un pedido de quiebra fundado en pagarés si el peticionante aparece como beneficiario y tenedor legítimo de los cartulares y éstos se encuentran vencidos
+y no cancelados, lo cual constituye de suyo un hecho revelador del estado de cesación de pagos en el que se encontraría la presunta fallida" (CNCom, Sala D, 6/2/02, "Constructora 144 SA s/pedido de quiebra promovido por Vallejo, Gustavo C.'" LLonline, ARíJUR169/2002).
+
+:::
+
+:::: {.fallo .cita}
+
+**Sentencia**
+
+"Constituye título suficiente para promover un pedido de quiebra en los términos del art. 79.2 de la ley 24.522 la sentencia firme dictada en una causa ordinaria incumplida por la accionada quien, notificada de tal condena, no intentb saldar el importe allí expresado" (CNCorn, Sala D, 13/11/06, "Fraseda SRL sipedido de quiebra por Tecnocom San Luis SA", del voto de la mayoría)." 
+
+::::
+
+---
+
+# Petición de quiebra por el acreedor
+
+::: {.caja-celeste}
+
+ARTICULO 80.-  Todo acreedor cuyo crédito sea exigible, cualquiera sea su naturaleza y privilegio, puede pedir la quiebra.
+
+Si, según las disposiciones de esta ley, su crédito tiene privilegio especial, debe demostrar sumariamente que los bienes afectados son insuficientes para cubrirlo. Esta prueba no será necesaria, si se tratare de un crédito de causa laboral.
+
+:::
+
+- La expresión "todo acreedor" permite afirmar la legitimación activa
+  - Limitaciones
+    - Crédito debe ser exigible
+    - No debe estar excluido por el art. 81 (acreedor que no puede pedir la quiebra)
+    - Los acreedores con privilegio especial deben demostrar que los bienes afectados son insuficientes para cubrirlo, salvo que se trate de un crédito de causa laboral.
+
+
+---
+
+# Acreedores excluidos
+
+::: {.caja-celeste}
+
+ARTICULO 81.-  No pueden solicitar la quiebra el cónyuge, los ascendientes o descendientes del deudor, ni los cesionarios de sus créditos.
+
+:::
+
+---
+
+# Petición de quiebra por el deudor
+
+::: {.caja-celeste}
+
+ARTICULO 82.- La solicitud del deudor de su propia quiebra prevalece sobre el pedido de los acreedores, cualquiera sea su estado, mientras no haya sido declarada.
+
+En caso de personas de existencia ideal, se aplica lo dispuesto por el Artículo 6. Tratándose de incapaces se debe acreditar la previa autorización judicial.
+
+:::
+
+- Cuando existieran pedidos de quiebra formulados por acreedores, y antes de que se hubiese dictado sentencia a raíz de dichas solicitudes, la petici6n que el deudor formulare de su propia quiebra prevalece sobre aquellos pedidos.
+
+---
+
+# Pedido de acreedores
+
+::: {.caja-celeste}
+
+ARTICULO 83.- Si la quiebra es pedida por acreedor, debe probar sumariamente su crédito, los hechos reveladores de la cesación de pagos, y que el deudor está comprendido en el Artículo 2.
+
+El juez puede disponer de oficio las medidas sumarias que estime pertinentes para tales fines y, tratándose de sociedad, para determinar si está registrada y, en su caso, quiénes son sus socios ilimitadamente responsables.
+
+:::
+
+- Requiere una investigación previa sobre la existencia de sus presupuestos, investigacion que exige, a su vez, un tramite.
+- El solicitante de la quiebra debe probar:
+  - El crédito
+  - Algún hecho revelador del estado de cesación de pagos.
+  - Que el deudor está comprendjdo en el art. Sode la LCQ
+
+:::: {.tarjeta .cita}
+Según **Chomer**
+
+"cuando la quiebra es pedida por el acreedor, debe probar sumariamente su crédito y el juez puede ordenar las medidas sumarias que estimare pertinente para determinados fines, no pudiendo dicha facultad ser considerada como supletoria de la prueba a rendir por el acreedor. La prueba sumaria que le atañe soportar al acreedor peticionante de la quiebra de su deudor debe ser ofrecida en la propia solicitud y producida antes de la citación del nombrado
+::::
+
+---
+
+# Citación del deudor
+
+::: {.caja-celeste}
+
+ARTICULO 84.- Acreditados dichos extremos, el juez debe emplazar al deudor para que, dentro del quinto día de notificado, invoque y pruebe cuanto estime conveniente a su derecho.
+
+Vencido el plazo y oído el acreedor, el juez resuelve sin más trámite, admitiendo o rechazando el pedido de quiebra.
+
+No existe juicio de antequiebra.
+
+:::
+
+::: {.lista-aire}
+- El emplazamiento debe notificarse por cédula (art. 273, inc. 5, LCQ)
+- En su defensa, el deudor puede articular cuestiones procesales tales como 
+  - la incompetencia del juez, o argumentar -y probar- circunstancias impeditivas del progreso de la peticiónn de quiebra
+    - Por ejemplo: que ha solicitado su concurso preventivo, que es un sujeto no susceptible de quebrar, que el peticionante no es acreedor, que el hecho revelador es falso o que, en realidad, no responde a la existencia del estado de cesaci6n de pagos atribuido, etc. 
+- El debate es brevísimo y las posibilidades probatorias restringidas, de donde, muchas veces, el medio más seguro y eficaz de demostrar que se está in bonis lo constituye **el depósito -en pago o a embargo- de los fondos suficientes para cubrir el crédito invocado como hecho revelador de la insolvencia.**
+- El juez, antes de resolver, puede dictar nuevas medidas de investigación (art. 274, LCQ). Si rechaza la solicitud de quiebra, tal resolución no causa estado y, por ende, no impide reiterar el pedido.
+:::
+
+---
+
+# ¿Qué ocurre después de la defensa del deudor?
+
+## 1. Investigación
+
+::: {.tarjeta}
+Antes de resolver, el juez puede disponer **medidas de investigación** destinadas a esclarecer los presupuestos del pedido de quiebra.
+
+**Fundamento:** art. 274 LCQ.
+:::
+
+## 2. Resolución
+
+::: {.columns}
+::: {.column width="50%"}
+
+::: {.caja-celeste}
+**ADMITE EL PEDIDO**
+
+Si considera acreditados los presupuestos legales, **declara la quiebra**.
+:::
+
+:::
+
+::: {.column width="50%"}
+
+::: {.caja-naranja}
+**RECHAZA EL PEDIDO**
+
+El rechazo **no causa estado** y, por lo tanto, no impide que posteriormente pueda formularse un nuevo pedido.
+:::
+
+:::
+:::
+
+:::: {.tarjeta .cita}
+Según **Chomer**
+debe enfatizarse que, a despecho de la exclusíón de la "antequiebra", de ningún modo la ley autoriza a prescindir de la bilateralidad o contradicción que, como asoma clararnente, tiene respaldo constitucional y resulta, por ende, insoslayable y absoluta. Consecuentemente, debe considerarse que la etapa prefalencial será de conocimiento acotado y no pleno.
+::::
+
+---
+
+# Medidas precautorias
+
+::: {.caja-celeste}
+ARTICULO 85.- En cualquier estado de los trámites anteriores a la declaración de quiebra, a pedido y bajo la responsabilidad del acreedor, el juez puede decretar medidas precautorias de protección de la integridad del patrimonio del deudor, cuando considere acreditado prima facie lo invocado por el acreedor y se demuestre peligro en la demora.
+
+Las medidas pueden consistir en la inhibición general de bienes del deudor, intervención controlada de sus negocios, u otra adecuada a los fines perseguidos.
+:::
+
+**Son aquellas que tienden a proteger la integridad del patrimonio del deudor, o sea, cualquier cautela idónea para asegurar los bienes que pueden llegar a constituir el activo concursal en caso de falencia.**
+
+::: {.lista-aire}
+
+Para el despacho favorable de estas cautelas, a solicitud del acreedor peticionante de la quiebra, deben reunirse los presupuestos:
+
+- verosimilitud de lo invocado por el solicitante 
+- peligro de que el transcurso del tiempo pueda frustrar las expectativas cuya realización se pretende en el proceso 
+- contracautela: sobre esta exigencia de garantía para responder por los eventuales daños que puedan derivarse de la traba indebida de las medidas precautorias.
+
+:::
+
+---
+
+# Pedido del Deudor
+
+::: {.caja-celeste}
+
+ARTICULO 86.- Pedido del deudor. Requisitos. La solicitud de quiebra por el deudor se debe acompañar con los requisitos indicados en el Artículo 11 incisos 2, 3, 4 y 5 y, en su caso, los previstos en los incisos 1, 6 y 7 del mismo, sin que su omisión obste a la declaración de quiebra.
+
+El deudor queda obligado a poner todos sus bienes a disposición del juzgado en forma apta para que los funcionarios del concurso puedan tomar inmediata y segura posesión de los mismos.
+
+En caso de sociedades, las disposiciones de este artículo se aplican a los socios ilimitadamente responsables que hayan decidido o suscriban la petición, sin perjuicio de que el juez intime a los restantes su cumplimiento, luego de decretada la quiebra.
+:::
+
+El trámite que precede a la declaracidn resulta notablemente simplificado si 10 comparamos con la instruccidn previa a la falencia solicitada por acreedor.
+
+::: {.lista-aire}
+
+1.  La misma presentación del deudor peticionando su propia quiebra implica confesidn judicial del estado de cesacidn de pagos.
+2.  La omisión de los recaudos formales señalados en el art. 86, que remite al art. 11, **NO obstan a que la quiebra deba, igualmente, declararse.**
+3.  No hay vestigio alguno de contradictorio. ni puede admitirse la eventual oposicidn de alguien que, pretendigndose acreedor, quisiera resistir la posibilidad de que el deudor sea declarado fallido
+4.  La apreciación judicial anterior a la sentencia ha de versar sobre competencia para entender en la causa, personería del solicitante y calidad de sujeto pasible de quebrar en el deudor.
+
+:::  
+
+---
+
+# DESISTIMIENTO DEL PEDIDO DE QUIEBRA
+
+::: {.caja-celeste}
+
+ARTICULO 87.- Desistimiento del acreedor. El acreedor que pide la quiebra puede desistir de su solicitud mientras no se haya hecho efectiva la citación prevista en el Artículo 84.
+
+Los pagos hechos por el deudor o por un tercero al acreedor peticionante de la quiebra estarán sometidos a lo dispuesto en el Artículo 122.
+
+Desistimiento del deudor. El deudor que peticione su quiebra no puede desistir de su pedido, salvo que demuestre, antes de la primera publicación de edictos, que ha desaparecido su estado de cesación de pagos.
+
+:::
+
+::: {.columns}
+::: {.column width="50%"}
+::: {.caja-celeste}
+**Desistimiento del acreedor**
+- Es admisible hasta el cumplimiento efectivo de la notificación del pedido de quiebra
+:::
+:::
+::: {.column width="50%"}
+::: {.caja-naranja}
+**Desistimiento del deudor**
+- Está vedado el desistimiento liso y llano (ad nutum). Sin embargo, la retractacidn de la solicitud de propia quiebra es admisible sujeta a dos circunstancias:
+  
+  - 1. Que se acredite la desaparición del estado de cesación de pagos
+  - 2. Que se produzca antes de la primera publicación de edictos
+  
+:::
+:::
+:::
+---
+
+# Desistimiento del acreedor - Pago al acreedor peticionante de quiebra: presunción
+
+::: {.caja-celeste}
+
+**ARTÍCULO 122.** Cuando el acreedor peticionante, luego de promovida la petición de quiebra, recibiera cualquier bien en pago o dación en pago de un tercero para aplicar al crédito hecho valer en el expediente, se presume que se han entregado y recibido en favor de la generalidad de los acreedores, siendo inoponibles a ellos el otro carácter.
+
+**Reintegro.** El acreedor debe reintegrar al concurso lo recibido, pudiendo compelérsele con intereses hasta la tasa fijada en el artículo 565 del Código de Comercio, en caso de resistencia injustificada.
+
+:::
+
+Para que esta ineficacia opere deben reunirse los siguientes presupuestos:
+
+1. Una quiebra peticionada por acreedor, no declarada, en la cual este recibió un pago, en dinero o en especie, de un tercero —no del deudor—, para aplicar a la obligación.
+
+2. Una posterior quiebra del mismo deudor, esta sí abierta, dentro de cuyo **período de sospecha** encuadra temporalmente el pago antes descripto, y en la cual se declara la ineficacia analizada.
+
+---
+
+# Ineficacia
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+::: {.caja-celeste}
+
+**Fundamentos**
+
+- Presunción de que el acreedor que pidió la quiebra conocía la cesación de pagos del deudor, pues afirmó la existencia de ella.
+
+- Dicho estado de insolvencia no resultó desacreditado, debido a que el pago fue efectuado por un tercero.
+
+:::
+
+:::
+
+::: {.column width="50%"}
+
+::: {.caja-naranja}
+
+**Consecuencia legal**
+
+- El ex peticionario de la quiebra debe reintegrar lo que hubiese percibido con motivo de la solicitud de quiebra rechazada.
+
+- El pago es legalmente considerado violatorio de la *pars condicio creditorum* y, por tanto, resulta inoponible al resto de los acreedores.
+
+:::
+
+:::
+
+::::

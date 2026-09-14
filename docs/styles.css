@@ -78,3 +78,339 @@ body {
   height: 100%;
   border-radius: 10px;
 }
+
+:root {
+  --azul: #17365d;
+  --azul-claro: #eaf1f8;
+  --dorado: #c59b45;
+  --gris: #5f6875;
+  --borde: #dfe4ea;
+}
+
+/* =========================================================
+   REVEALJS
+   Base sencilla para presentaciones
+   No modifica los estilos de la página web Quarto
+   ========================================================= */
+
+
+/* ---------------------------------------------------------
+   PALETA DE LA PRESENTACIÓN
+   --------------------------------------------------------- */
+
+.reveal {
+  --r-azul: #17365d;
+  --r-azul-medio: #285b8f;
+  --r-celeste: #eaf3fa;
+  --r-celeste-fuerte: #d7e9f7;
+  --r-naranja: #e67e22;
+  --r-naranja-claro: #fdf0e4;
+  --r-gris: #5f6875;
+  --r-gris-claro: #f5f7f9;
+  --r-borde: #dfe4ea;
+
+  font-family: Arial, Helvetica, sans-serif;
+  color: #263238;
+  font-size: 30px;
+}
+
+
+/* ---------------------------------------------------------
+   ESTRUCTURA GENERAL
+   --------------------------------------------------------- */
+
+.reveal .slides {
+  text-align: left;
+}
+
+
+/* ---------------------------------------------------------
+   TÍTULOS
+   --------------------------------------------------------- */
+
+.reveal h1,
+.reveal h2,
+.reveal h3 {
+  color: var(--r-azul);
+  text-transform: none;
+  letter-spacing: normal;
+  font-weight: 700;
+}
+
+.reveal h1 {
+  font-size: 1.9em;
+}
+
+.reveal h2 {
+  font-size: 1.35em;
+}
+
+.reveal h3 {
+  font-size: 1.1em;
+}
+
+
+/* ---------------------------------------------------------
+   TEXTO
+   --------------------------------------------------------- */
+
+.reveal p,
+.reveal li {
+  line-height: 1.35;
+}
+
+.reveal li {
+  margin-bottom: 0.2em;
+}
+
+.reveal strong {
+  color: var(--r-azul);
+}
+
+
+/* ---------------------------------------------------------
+   ENLACES
+   --------------------------------------------------------- */
+
+.reveal a {
+  color: var(--r-azul-medio);
+}
+
+.reveal a:hover {
+  color: var(--r-naranja);
+}
+
+
+/* =========================================================
+   CAJAS
+   Se utilizan desde Markdown con:
+   ::: {.caja-celeste}
+   texto
+   :::
+   ========================================================= */
+
+
+/* CAJA CELESTE
+   Uso: conceptos, explicaciones, definiciones */
+
+.reveal .caja-celeste {
+  background: var(--r-celeste);
+  border-left: 6px solid var(--r-azul-medio);
+  padding: 0.7em 0.9em;
+  margin: 0.7em 0;
+  border-radius: 8px;
+}
+
+
+/* CAJA AZUL
+   Uso: idea principal, conclusión importante */
+
+.reveal .caja-azul {
+  background: var(--r-azul);
+  color: white;
+  padding: 0.7em 0.9em;
+  margin: 0.7em 0;
+  border-radius: 8px;
+}
+
+.reveal .caja-azul strong,
+.reveal .caja-azul h2,
+.reveal .caja-azul h3 {
+  color: white;
+}
+
+
+/* CAJA NARANJA
+   Uso: advertencias, diferencias, puntos de atención */
+
+.reveal .caja-naranja {
+  background: var(--r-naranja-claro);
+  border-left: 6px solid var(--r-naranja);
+  padding: 0.7em 0.9em;
+  margin: 0.7em 0;
+  border-radius: 8px;
+}
+
+
+/* CAJA GRIS
+   Uso: información secundaria */
+
+.reveal .caja-gris {
+  background: var(--r-gris-claro);
+  border-left: 6px solid var(--r-gris);
+  padding: 0.7em 0.9em;
+  margin: 0.7em 0;
+  border-radius: 8px;
+}
+
+
+/* ---------------------------------------------------------
+   TARJETAS
+   Similar a un cuadro o forma de PowerPoint
+   --------------------------------------------------------- */
+
+.reveal .tarjeta {
+  background: white;
+  border: 1px solid var(--r-borde);
+  border-top: 5px solid var(--r-azul);
+  padding: 0.7em 0.9em;
+  margin: 0.7em 0;
+  border-radius: 8px;
+}
+
+.reveal .tarjeta-naranja {
+  background: white;
+  border: 1px solid var(--r-borde);
+  border-top: 5px solid var(--r-naranja);
+  padding: 0.7em 0.9em;
+  margin: 0.7em 0;
+  border-radius: 8px;
+}
+
+
+/* ---------------------------------------------------------
+   TÍTULO PEQUEÑO DENTRO DE UNA CAJA
+   --------------------------------------------------------- */
+
+.reveal .caja-celeste h2,
+.reveal .caja-celeste h3,
+.reveal .caja-naranja h2,
+.reveal .caja-naranja h3,
+.reveal .caja-gris h2,
+.reveal .caja-gris h3,
+.reveal .tarjeta h2,
+.reveal .tarjeta h3,
+.reveal .tarjeta-naranja h2,
+.reveal .tarjeta-naranja h3 {
+  margin-top: 0;
+}
+
+
+/* =========================================================
+   TABLAS / CUADROS COMPARATIVOS
+   Se escriben como tablas Markdown normales
+   ========================================================= */
+
+.reveal table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.8em;
+  margin: 0.6em 0;
+}
+
+.reveal table th {
+  background: var(--r-azul);
+  color: white;
+  font-weight: 600;
+}
+
+.reveal table th,
+.reveal table td {
+  border: 1px solid var(--r-borde);
+  padding: 0.5em 0.6em;
+  vertical-align: top;
+}
+
+.reveal table tr:nth-child(even) {
+  background: var(--r-celeste);
+}
+
+
+/* =========================================================
+   COLUMNAS
+   Quarto crea las columnas.
+   CSS solamente controla el espacio entre ellas.
+   ========================================================= */
+
+.reveal .columns {
+  gap: 1em;
+}
+
+.reveal .column {
+  vertical-align: top;
+}
+
+
+/* ---------------------------------------------------------
+   IMÁGENES
+   --------------------------------------------------------- */
+
+.reveal img {
+  max-width: 100%;
+  object-fit: contain;
+}
+
+.reveal figcaption {
+  font-size: 0.55em;
+  color: var(--r-gris);
+}
+
+
+/* ---------------------------------------------------------
+   CITAS
+   --------------------------------------------------------- */
+
+.reveal blockquote {
+  width: auto;
+  background: var(--r-gris-claro);
+  border-left: 5px solid var(--r-azul-medio);
+  padding: 0.6em 0.9em;
+  box-shadow: none;
+  font-style: normal;
+}
+
+
+/* ---------------------------------------------------------
+   PORTADA
+   --------------------------------------------------------- */
+
+.reveal .title-slide {
+  text-align: left;
+}
+
+.reveal .title-slide h1 {
+  color: var(--r-azul);
+  font-size: 2.1em;
+}
+
+.reveal .title-slide .subtitle {
+  color: var(--r-gris);
+}
+
+.reveal .caja-celeste {
+  background: #eaf3fa;
+  border-left: 6px solid #285b8f;
+  padding: 0.6em 0.8em;
+  border-radius: 8px;
+}
+
+.reveal .cita {
+  text-align: justify;
+  font-style: italic;
+}
+
+/* JURISPRUDENCIA */
+
+.reveal .fallo {
+  background: #eef7f3;
+  border: 1px solid #b8d8ca;
+  border-left: 7px solid #28785e;
+  padding: 0.7em 0.9em;
+  margin: 0.7em 0;
+  border-radius: 8px;
+}
+
+.reveal .lista-aire {
+  line-height: 1.4;
+}
+
+.reveal .lista-aire > ul > li,
+.reveal .lista-aire > ol > li {
+  margin-bottom: 0.55em;
+}
+
+.reveal .lista-aire ul ul,
+.reveal .lista-aire ol ol {
+  margin-top: 0.3em;
+  margin-bottom: 0.4em;
+}
