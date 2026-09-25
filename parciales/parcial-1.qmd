@@ -1,0 +1,88 @@
+---
+title: ""
+format:
+  pdf:
+    documentclass: article
+    papersize: a4
+    fontsize: 11pt
+    geometry:
+      - top=2cm
+      - bottom=2cm
+      - left=2cm
+      - right=2cm
+    number-sections: false
+lang: es
+---
+
+# UNIVERSIDAD DE BUENOS AIRES
+# FACULTAD DE CIENCIAS ECONOMICAS
+## Materia: Derecho Crediticio Bursátil e Insolvencia
+### 1er. Parcial
+### Apellido y Nombre: ______________________  Registro: ____________________
+
+1. MARQUE LAS OPCIONES CORRECTAS (PUEDE HABER MAS DE UNA). La cesación de pagos
+   1. Es el presupuesto subjetivo necesario para la presentación en concurso.
+   2. La teoría intermedia se aplica en la ley solo como excepción
+   3. Siempre debe presentarse, sin excepción.
+   4. El único hecho exteriorizador de la misma que prevee la ley es un incumplimiento.
+   5. La teoría que recepta la ley sobre el particular es la amplia
+   6. La teoría que aplica la ley es la materialista
+
+2. MARQUE LAS OPCIONES CORRECTAS (PUEDE HABER MAS DE UNA). Si una Sociedad Anónima quiere concursarse:
+   1. Lo hace a traves de su representante legal.
+   2. Su presentación debe ratificarse a los 30 días corridos.
+   3. Ante la falta de ratificación se declarará la quiebra
+   4. No es necesaria la ratificación
+   5. Ante la falta de ratificacion no podrá volver a concursares si existían pedidos de quiebra pendientes al momento del concurso original
+   6. No es posible concursarse con pedidos de quiebra en trámite
+
+3. La empresa ABC SA se presentó en concurso con fecha 14/06/2020. El juez resuelve la apertura con fecha 11/09/2020. Posee 3 acreedores, a saber
+   1. El acreedor A, proveedor de insumos comerciales. Se presenta con ánimos de verificar el 08/08/2022
+   2. El acreedor B, laboral, opta por continuar su tramite ante el juez natural, obtiene sentencia firme el 01/12/2022 y se presenta el 02/03/2023
+   3. El acreedor C, quirografario, se presenta tempestivamente, en su escrito solicita $ 2.000.000.- cuando de la documentación aportada le corresponde un crédito de $ 5.000.000.-
+   **¿Que tratamiento se le debe dar a cada uno?**
+
+4. Mayorías - Resuelva el ejercicio y analice si se obtuvieron las mayorias de ley. En defecto de ello, analice si es viable aplicar el cramdown Power
+   1. La empresa "Descendimos SA" se presenta en concurso EL 14/07/2019 y agrupa a sus acreedores en 2 categorias, a saber
+      1. Quirografarios Comerciales, integrada por los siguientes
+         1. AVELLANEDA S.A.     $ 10.000
+         2. QUILMES S.A.        $ 20.000
+         3. BRANDSEN S.A.       $ 30.000
+         4. JOSE LUIS           $ 40.000
+         5. MARÍA LUISA         $ 50.000
+      2. Quirografarios Financieros, integrado por los siguientes
+         1. BBVA                $ 100.000
+         2. SANTANDER           $ 600.000
+         3. GALICIA             $ 300.000
+    
+    Datos
+        - JOSE LUIS es cesionario del credito del padre del administrador de la concursada. La cesión fué realizada con fecha 14/01/2019
+        - MARÍA LUISA es la madre del administrador de la sociedad concursada
+        - BRANDSEN SA tiene el 60 % del capital accionario de la concursada 
+        - MERLO SA es un acreedor comercial con privilegiado especial por $ 20.000. Renuncia al 50% de su privilegio y vota afirmativamente. 
+      - VOTOS AFIRMATIVOS
+        - BBVA, SANTANDER, GALICIA
+
+5.  MARQUE LAS OPCIONES CORRECTAS (PUEDE HABER MAS DE UNA). Cramdown (Art. 48)
+    1.  Una vez abierto el registro, debe inscribirse el deudor y al menos un tercero
+    2.  En caso de que el quien obtenga primero las conformidades sea el tercero, siempre le serán transmitidas las porciones de capital sin desembolso alguno.
+    3.  En caso de que el quien obtenga primero las conformidades sea el deudor, se continuará con el tramite homologatorio.
+    4.  En caso de ausencia de inscriptos se decretará la quiebra
+    5.  En caso de que la valuacion de las porciones de capital que se realiza en el inciso 3 sea positiva, el valor que arroja es ineludiblemente el que debera afrontar el tercero si obtiene primero la conformidades
+
+6.  MARQUE LAS OPCIONES CORRECTAS (PUEDE HABER MAS DE UNA). Conversión y Recursos
+    1.  La conversion es aplicable para la quiebra directa como para la indirecta
+    2.  La conversion es aplicable para la quiebra directa pedida por acreedor o por deudor
+    3.  La reposición sin tramite consiste en demostrar la inexistencia de la cesacion de pagos depositando solo el importe del credito en virtud del cual se declaro la quiebra.
+    4.  En el fallo Hormisur la empresa ademas del Agrupamiento la empresa plantea una conversion
+    5.  La ley dice que entre la conversión y la reposición, prima la reposición
+    6.  El requisito para la conversión es aportar los requisitos del art. 11, sin exclusiones.
+
+7. Nulidad 
+   1. Exprese cuáles son los supuestos de nulidad del acuerdo homologado
+   2. ¿Por que monto irá a la quiebra un acreedor con un crédito original de 20.000 que acepto en el acuerdo una quita del 20 % pagadero en 4 cuotas y se declaro la nulidad luego de haber cobrado solo 1?  
+
+8. Describa brevemente el contenido de los fallos Difry y Translinea. En que contexto se emitieron. Que buscaron evitar, que consecuencias disvaliosas se produjeron como consecuencia de su aplicación restrictiva y que tenor tomaron los fallos posteriores que los corrigieron.
+
+        
+   

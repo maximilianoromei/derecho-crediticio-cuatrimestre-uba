@@ -165,6 +165,14 @@ Fallos Agrupamiento - Leer Hormisu y Jocri
 
 [⬇️ Descargar PDF](clases/clase08/hormisur%20y%20otros%20(2).pdf){.btn .btn-outline-primary target="_blank"}
 
+::: {.clase}
+## Clase 9 · Cesación de Pagos - Período de Sospecha. Ineficacias
+
+Presentación Powerpoint.
+
+[🎓 Ver presentación](clases/clase09/cesacion-de-pagos.pptx){.btn .btn-primary target="_blank"}
+[⬇️ Descargar PDF](clases/clase09/cesacion-de-pagos.pdf){.btn .btn-outline-primary target="_blank"}
+
 
 
 <!-- Duplicar este bloque para agregar nuevas clases -->
