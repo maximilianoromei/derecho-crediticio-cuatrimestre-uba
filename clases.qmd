@@ -170,8 +170,8 @@ Fallos Agrupamiento - Leer Hormisu y Jocri
 
 Presentación Powerpoint.
 
-[🎓 Ver presentación](clases/clase09/cesacion-de-pagos.pptx){.btn .btn-primary target="_blank"}
-[⬇️ Descargar PDF](clases/clase09/cesacion-de-pagos.pdf){.btn .btn-outline-primary target="_blank"}
+[🎓 Ver presentación](clases/clase09/cp-ps.pptx){.btn .btn-primary target="_blank"}
+[⬇️ Descargar PDF](clases/clase09/cp-ps.pdf){.btn .btn-outline-primary target="_blank"}
 
 
 
