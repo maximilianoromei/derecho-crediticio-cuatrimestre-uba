@@ -173,6 +173,18 @@ Presentación Powerpoint.
 [🎓 Ver presentación](clases/clase09/cp-ps.pptx){.btn .btn-primary target="_blank"}
 [⬇️ Descargar PDF](clases/clase09/cp-ps.pdf){.btn .btn-outline-primary target="_blank"}
 
+## Clase 10 · Extensión de quiebra - Comparación de acciones
 
+Presentación PowerPoint.
+
+[🎓 Ver presentación](clases/clase10/extension.pptx){.btn .btn-primary target="_blank"}
+
+Comparación de acciones.
+
+[📄 Ver comparación](clases/clase10/comparacion.pdf){.btn .btn-primary target="_blank"}
+
+### Video de la Clase 10 · Extensión de quiebra
+
+[▶️ Ver video de la clase](https://www.youtube.com/watch?v=hzvFfKHOdVQ){.btn .btn-primary target="_blank"}
 
 <!-- Duplicar este bloque para agregar nuevas clases -->
